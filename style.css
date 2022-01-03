@@ -71,10 +71,7 @@ nav > a:hover{
    
     
 
-ul>li:hover{
-    background-color: rgb(43, 199, 43);
-    text-decoration: u;
-}
+
 main p{
     margin: 15px 0px ;
     text-indent: 30px;
@@ -168,6 +165,10 @@ aside>ul{
     list-style-position: inside;
    columns: 2;
    list-style-type: "\2714\00A0\00A0";
+   
+}
+aside>a:hover{
+    text-decoration: underline;
 }
 
 footer{
